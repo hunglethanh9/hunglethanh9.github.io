@@ -6,7 +6,6 @@ url: "http://www.hunglethanh.github.io."
 nav:
   main:
     writing: "/writing"
-    speaking: "/speaking"
     projects: "/projects"
     photos: "/photos"
   writing:
