@@ -1,5 +1,5 @@
 # Website settings
-baseurl: "/"
+baseurl: ""
 url: "http://www.hunglethanh.github.io"
 
 # Internal nav
