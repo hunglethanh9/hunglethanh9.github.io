@@ -1,6 +1,6 @@
 # Website settings
 baseurl: "/"
-url: "http://www.hunglethanh.github.io."
+url: "http://www.hunglethanh.github.io"
 
 # Internal nav
 nav:
